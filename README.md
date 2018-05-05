@@ -7,4 +7,11 @@
    the Council of Andrews. In such matters, decrees of the Council of Andrews
    shall supersede conflicting decrees.
 
+# Membership
+
+- [x] [Andrew Stuart](/andrewstuart) 
+- [ ] [Andrew Pratt](/chemdrew)
+- [ ] [Andrew Zammit](/zamnuts)
+
+
 [Council Of Tims]: http://counciloftims.com
