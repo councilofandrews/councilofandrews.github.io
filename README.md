@@ -6,4 +6,4 @@
    situations in which said council creates decrees which conflict with those of
    the Council of Andrews.
 
-[Council Of Tims]: counciloftims.com
+[Council Of Tims]: http://counciloftims.com
