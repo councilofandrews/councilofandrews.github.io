@@ -10,8 +10,8 @@
 # Membership
 
 - [x] [Andrew Stuart](/andrewstuart) 
-- [ ] [Andrew Pratt](/chemdrew)
-- [ ] [Andrew Zammit](/zamnuts)
+- [x] [Andrew Pratt](/chemdrew)
+- [x] [Andrew Zammit](/zamnuts)
 
 
 [Council Of Tims]: http://counciloftims.com
