@@ -9,10 +9,9 @@
 
 # Membership
 
-- [x] [Andrew Stuart](/andrewstuart) 
-- [x] [Andrew Pratt](/chemdrew)
-- [x] [Andrew Zammit](/zamnuts)
-- [x] [Andrew Baker](/bakerag1)
-
+- [x] [Andrew Stuart](https://github.com/andrewstuart) 
+- [x] [Andrew Pratt](https://github.com/chemdrew)
+- [x] [Andrew Zammit](https://github.com/zamnuts)
+- [x] [Andrew Baker](https://github.com/bakerag1)
 
 [Council Of Tims]: http://counciloftims.com
