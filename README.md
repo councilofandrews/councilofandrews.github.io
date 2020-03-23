@@ -13,5 +13,6 @@
 - [x] [Andrew Pratt](https://github.com/chemdrew)
 - [x] [Andrew Zammit](https://github.com/zamnuts)
 - [x] [Andrew Baker](https://github.com/bakerag1)
+- [x] [Andrew Hoetker](https://github.com/ahoetker)
 
 [Council Of Tims]: http://counciloftims.com
