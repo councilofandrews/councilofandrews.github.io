@@ -15,5 +15,6 @@
 - [x] [Andrew Baker](https://github.com/bakerag1)
 - [x] [Andrew Hoetker](https://github.com/ahoetker)
 - [x] [Andrew Scott](https://github.com/imgurbot12)
+- [X] [Andrew Westensee](https://github.com/awestensee)
 
 [Council Of Tims]: http://counciloftims.com
